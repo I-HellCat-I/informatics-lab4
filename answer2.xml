@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<all>
+	<Day type="str">Friday</Day>
+	<Lessons type="dict">
+		<key name="Matan (prod)" type="dict">
+			<Type type="str">Practice</Type>
+			<Teacher type="str">Yershov A. R</Teacher>
+			<Auditory type="int">1410</Auditory>
+			<Beginning type="str">8:20</Beginning>
+			<Ending type="str">9:50</Ending>
+		</key>
+		<Sp._parts_of_Matan type="dict">
+			<Type type="str">Lecture</Type>
+			<Teacher type="str">Trifanova Ekaterina Stanislavovna</Teacher>
+			<Auditory type="int">2304</Auditory>
+			<Beginning type="str">10:00</Beginning>
+			<Ending type="str">11:30</Ending>
+		</Sp._parts_of_Matan>
+		<key name="Linal (prod) (lec)" type="dict">
+			<Type type="str">Lecture</Type>
+			<Teacher type="str">Karpov Dmitriy Valeryevich</Teacher>
+			<Auditory type="int">2304</Auditory>
+			<Beginning type="str">11:40</Beginning>
+			<Ending type="str">13:10</Ending>
+		</key>
+		<key name="Linal (prod) (prac)" type="dict">
+			<Type type="str">Practice</Type>
+			<Teacher type="str">Pokidova Marina Vladimirovna</Teacher>
+			<Auditory type="int">2304</Auditory>
+			<Beginning type="str">13:30</Beginning>
+			<Ending type="str">15:00</Ending>
+			<wee type="list">
+				<item type="str">ahh</item>
+				<item type="int">1</item>
+			</wee>
+		</key>
+	</Lessons>
+</all>

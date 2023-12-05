@@ -1,0 +1,37 @@
+{
+    "Day": "Friday",
+    "Lessons": {
+        "Matan (prod)": {
+            "Type": "Practice",
+            "Teacher": "Yershov A. R",
+            "Auditory": 1410,
+            "Beginning": "8:20",
+            "Ending": "9:50"
+        },
+        "Sp. parts of Matan": {
+            "Type": "Lecture",
+            "Teacher": "Trifanova Ekaterina Stanislavovna",
+            "Auditory": 2304,
+            "Beginning": "10:00",
+            "Ending": "11:30"
+        },
+        "Linal (prod) (lec)": {
+            "Type": "Lecture",
+            "Teacher": "Karpov Dmitriy Valeryevich",
+            "Auditory": 2304,
+            "Beginning": "11:40",
+            "Ending": "13:10"
+        },
+        "Linal (prod) (prac)": {
+            "Type": "Practice",
+            "Teacher": "Pokidova Marina Vladimirovna",
+            "Auditory": 2304,
+            "Beginning": "13:30",
+            "Ending": "15:00",
+            "wee": [
+                "ahh",
+                1
+            ]
+        }
+    }
+}

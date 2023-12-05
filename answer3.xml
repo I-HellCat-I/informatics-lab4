@@ -1,0 +1,37 @@
+<Schedule>
+    <field name="Day" type="str">Friday</field>
+    <attribute name="Lessons">
+        <attribute name="Matan (prod)">
+            <field name="Type" type="str">Practice</field>
+            <field name="Teacher" type="str">Yershov A. R</field>
+            <field name="Auditory" type="int">1410</field>
+            <field name="Beginning" type="str">8:20</field>
+            <field name="Ending" type="str">9:50</field>
+        </attribute>
+        <attribute name="Sp. parts of Matan">
+            <field name="Type" type="str">Lecture</field>
+            <field name="Teacher" type="str">Trifanova Ekaterina Stanislavovna</field>
+            <field name="Auditory" type="int">2304</field>
+            <field name="Beginning" type="str">10:00</field>
+            <field name="Ending" type="str">11:30</field>
+        </attribute>
+        <attribute name="Linal (prod) (lec)">
+            <field name="Type" type="str">Lecture</field>
+            <field name="Teacher" type="str">Karpov Dmitriy Valeryevich</field>
+            <field name="Auditory" type="int">2304</field>
+            <field name="Beginning" type="str">11:40</field>
+            <field name="Ending" type="str">13:10</field>
+        </attribute>
+        <attribute name="Linal (prod) (prac)">
+            <field name="Type" type="str">Practice</field>
+            <field name="Teacher" type="str">Pokidova Marina Vladimirovna</field>
+            <field name="Auditory" type="int">2304</field>
+            <field name="Beginning" type="str">13:30</field>
+            <field name="Ending" type="str">15:00</field>
+            <list name="wee">
+                <item type="str">"ahh"</item>
+                <item type="int">1</item>
+            </list>
+        </attribute>
+    </attribute>
+</Schedule>
